@@ -1,5 +1,5 @@
 # VIKK173-VIKK173
-<h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
+<h1 align="center">Hi , I'm Vivek Sharma</h1>
 <h3 align="center">Web Developer | React & Node.js Developer</h3>
 
 <p align="center">
