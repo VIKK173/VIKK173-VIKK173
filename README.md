@@ -1,81 +1,54 @@
-# VIKK173-VIKK173
-<h1 align="center">Hi , I'm Vivek Sharma</h1>
-<h3 align="center">Web Developer | React & Node.js Developer</h3>
+<h1 align="center">Hi 👋 I'm Vivek Sharma</h1>
+
+<h3 align="center">
+<span style="background-color:yellow;color:black;padding:8px 18px;border-radius:20px;font-weight:bold;">
+🌐 Web Developer
+</span>
+</h3>
 
 <p align="center">
-I build modern, responsive web applications using JavaScript technologies.
+Passionate about building modern web applications and responsive user interfaces.
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 **Web Developer**
-- ⚛️ Experienced with **React.js**
-- 🌐 Backend development using **Node.js**
-- 🎯 Focused on building **Full Stack Web Applications**
-- 📚 Always learning new technologies
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<p align="center">
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,python" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
 
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-🔹 **Watch E-Commerce Website**  
-Responsive watch store with product catalog and shopping cart.
-
-🔹 **Weather Application**  
-Live weather dashboard using API and JavaScript.
-
-🔹 **Grocery Store Website**  
-Dynamic product listing with cart functionality.
-
-🔹 **Music Player**  
-Custom web audio player with play/pause and track control.
+🏠 Home Service Website  
+🛒 Grocery E-Commerce Website  
+⚙ REST API Backend  
+🏢 KEC International Website Redesign  
+📦 Amazon Clone  
+🛍 Flipkart Clone  
+🏛 Government Scheme Website  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKK173&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIKK173&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=VIKK173&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
+## 📫 Contact
 
 📧 Email: svivek7318@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/vivek9153  
 🐙 GitHub: https://github.com/VIKK173
-
----
-
-⭐ From **Vivek Sharma – Web Developer**
